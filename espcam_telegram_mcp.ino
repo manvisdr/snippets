@@ -11,8 +11,8 @@ String getValue(String data, char separator, int index);
 void bleTask();
 void wifiTask();
 
-String BOT_TOKEN = "1130926242:AAHcJrGfckEEednj09igJ9Bu5QXqImfz-tg";
-String CHAT_ID = "966975362";
+String BOT_TOKEN = "***********";
+String CHAT_ID = "**************";
 
 #define FLASH_LED_PIN 4
 bool flashState = LOW;
@@ -21,8 +21,8 @@ const int led = 12;
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "MGI-MNC";
-const char *password = "#neurixmnc#";
+const char *ssid = "***************";
+const char *password = "************";
 
 int val = 0;
 int botRequestDelay = 1000;
